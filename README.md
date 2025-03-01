@@ -1,4 +1,4 @@
-# Daamin's ShrekPad
+# Daamin's Macropad - ShrekPad
 
 ![](assets/case1.png)
 ![](assets/case2.png)
